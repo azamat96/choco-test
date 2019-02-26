@@ -1,6 +1,6 @@
 # choco-test
 
-  Есть две таблицы: 1) blogs и 2) comments. Для них есть две API-ишки(ниже).
+  Есть две таблицы: :one: blogs и :two: comments. Для них есть две API-ишки(ниже):arrow_down:.
 
 ## API: Blogs
 
