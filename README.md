@@ -17,7 +17,7 @@ api/blogs?search=example | GET | *Поиск по статьям*
 
 API | Запрос | Описание
 ------------ | ------------- | -------------
-api/blogs/{blog_id}/comments | GET | *Вывести список все комментарий одной статьи*
+fghjkapi/blogs/{blog_id}/comments | GET | *Вывести список все комментарий одной статьи*
 api/blogs/{blog_id}/comments | POST | *Создать комментарию для одной статьи*
 api/blogs/{blog_id}/comments/{id} | GET | *Получить комментарию*
 api/blogs/{blog_id}/comments/{id} | PUT | *Редактировать комментарию*
